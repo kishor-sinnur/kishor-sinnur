@@ -92,4 +92,3 @@ As a full-stack developer 🌐, I bring expertise in Node.js, Java, Express.js, 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
