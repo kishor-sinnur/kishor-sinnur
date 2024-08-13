@@ -23,9 +23,6 @@ As a full-stack developer 🌐, I bring expertise in Node.js, Java, Express.js, 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 
 
 </td><td valign="top" width="50%">
